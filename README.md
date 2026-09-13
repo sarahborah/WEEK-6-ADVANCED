@@ -1,19 +1,20 @@
-# WEEK-6-ADVANCED
-# Week 6 – Advanced Analytics & Decision Support
+Week 6 – Advanced Analytics & Decision Support
 
-### AnalystLab Africa | HealthConnect Appointment Analytics Project
+AnalystLab Africa | HealthConnect Appointment Analytics Project
 
-## Overview
+Overview
 
-Week 6 of my **Data Analytics Track with AnalystLab Africa** focused on taking the HealthConnect appointment analysis from Week 5 and moving it into **advanced analytics, validation, decision support, and cross-track integration**.
+Week 6 of my Data Analytics Track with AnalystLab Africa focused on taking the HealthConnect appointment analysis from Week 5 and moving it into advanced analytics, validation, decision support, and cross-track integration.
 
 Rather than repeating the exploratory data analysis and dashboard development completed in Week 5, I focused on investigating important findings more deeply, validating key metrics, identifying high-impact patient segments, improving the analytical dashboard, and preparing insights that could support the Data Science track.
 
 ---
+<img width="514" height="295" alt="week 6 SC" src="https://github.com/user-attachments/assets/baa08276-4f31-445c-b14d-8085dde3b4f9" />
 
-## What I Learned in Week 6
 
-### 1. Advanced Data Analysis
+What I Learned in Week 6
+
+1. Advanced Data Analysis
 
 I learned how to move beyond basic descriptive analysis and investigate relationships that may help explain appointment attendance and no-show behaviour.
 
@@ -29,7 +30,7 @@ This helped me understand how deeper segmentation can reveal patterns that may n
 
 ---
 
-### 2. Analysing Booking Lead Time
+2. Analysing Booking Lead Time
 
 I investigated whether the amount of time between booking and the appointment was associated with no-show behaviour.
 
@@ -48,7 +49,7 @@ This demonstrated the importance of segmenting patients instead of relying only 
 
 ---
 
-### 3. Analysing Previous No-Show History
+3. Analysing Previous No-Show History
 
 I also investigated whether previous no-show behaviour was associated with future appointment attendance.
 
@@ -65,23 +66,23 @@ This showed that previous appointment behaviour can be an important analytical v
 
 ---
 
-### 4. Analysing Distance to the Clinic
+4. Analysing Distance to the Clinic
 
 I examined whether distance from the clinic was associated with appointment attendance.
 
 The analysis showed that patients living 20+ km from the clinic had the highest no-show rate:
 
-**20+ km → 57.76% no-show rate**
+20+ km → 57.76% no-show rate
 
 Compared with:
 
-**0–5 km → 46.45%**
+0–5 km → 46.45%
 
 This helped me understand how operational and geographical factors can be incorporated into healthcare analytics.
 
 ---
 
-### 5. Deeper Reminder Analysis
+5. Deeper Reminder Analysis
 
 In Week 5, I identified a difference between patients who received reminders and those who did not.
 
@@ -95,34 +96,34 @@ For example:
 * 15–30 days: 41.88% vs 46.56%
 * 31–60 days: 59.32% vs 63.64%
 
-This taught me the importance of **cross-segment analysis** rather than relying on a single overall comparison.
+This taught me the importance of cross-segment analysis rather than relying on a single overall comparison.
 
 I also learned that an observed association should not automatically be interpreted as proof of causation.
 
 ---
 
-## KPI Validation
+KPI Validation
 
 Another important lesson from Week 6 was that calculating a KPI is not enough.
 
 I validated the key HealthConnect metrics from Week 5, including:
 
-* Total Appointments: **5,000**
-* Attendance Rate: **46.28%**
-* No-Show Rate: **48.46%**
-* Cancellation Rate: **5.26%**
-* Reminder Coverage: **72.68%**
-* Total No-Shows: **2,423**
+* Total Appointments: 5,000
+* Attendance Rate: 46.28%
+* No-Show Rate: 48.46%
+* Cancellation Rate: 5.26%
+* Reminder Coverage: 72.68%
+* Total No-Shows: 2,423
 
 I also checked whether the outcome percentages were internally consistent.
 
-This strengthened my understanding of **data quality, KPI reliability and analytical validation**.
+This strengthened my understanding of data quality, KPI reliability and analytical validation.
 
 ---
 
-## Power BI Dashboard Improvement
+Power BI Dashboard Improvement
 
-Instead of recreating my Week 5 dashboard, I used it as the foundation for a new **Advanced Decision Support** view.
+Instead of recreating my Week 5 dashboard, I used it as the foundation for a new Advanced Decision Support view.
 
 The Week 6 dashboard focuses on:
 
@@ -133,11 +134,11 @@ The Week 6 dashboard focuses on:
 * Reminder patterns
 * Decision-oriented insights
 
-This helped me improve my approach to **data storytelling**, where visualisations are designed not just to display numbers but to support practical decisions.
+This helped me improve my approach to data storytelling, where visualisations are designed not just to display numbers but to support practical decisions.
 
 ---
 
-## From Insights to Business Decisions
+From Insights to Business Decisions
 
 Week 6 taught me how to translate analytical findings into potential HealthConnect actions.
 
@@ -149,19 +150,19 @@ Examples include:
 * Maintaining and improving reminder coverage.
 * Testing reminder timing and channels in future analysis.
 
-The goal is not simply to report what the data says, but to explain **what the findings could mean for the organisation**.
+The goal is not simply to report what the data says, but to explain what the findings could mean for the organisation.
 
 ---
 
-## Cross-Track Integration
+Cross-Track Integration
 
 A major difference between Week 5 and Week 6 was the requirement for meaningful cross-track integration.
 
 For my Data Analytics work, the most relevant integration point was:
 
-**Data Analytics → Data Science**
+Data Analytics → Data Science
 
-My analytical findings can provide useful information for the development of a potential **appointment no-show prediction model**.
+My analytical findings can provide useful information for the development of a potential appointment no-show prediction model.
 
 Potential candidate variables identified through the analysis include:
 
@@ -175,13 +176,13 @@ This helped me understand that data analytics does not operate in isolation. Ana
 
 ---
 
-## Responsible Interpretation
+Responsible Interpretation
 
 Week 6 also strengthened my understanding of analytical limitations.
 
 I learned to distinguish between:
 
-**Association ≠ Causation**
+Association and Causation
 
 For example, although patients receiving reminders had a lower observed no-show rate, this analysis alone does not prove that reminders caused the reduction.
 
@@ -191,14 +192,10 @@ I therefore learned to document:
 
 * Data limitations
 * Missing values
-* Observational nature of the analysis
-* Unmeasured factors
-* Potential modelling limitations
-* Risks associated with interpreting findings too strongly
 
 ---
 
-## Week 7 Preparation
+Week 7 Preparation
 
 The final part of Week 6 was preparing for further testing and validation in Week 7.
 
@@ -214,7 +211,7 @@ Areas identified for future testing include:
 
 ---
 
-## Key Skills Developed
+Key Skills Developed
 
 Through Week 6, I strengthened my skills in:
 
@@ -233,9 +230,9 @@ Through Week 6, I strengthened my skills in:
 
 ---
 
-## My Main Takeaway
+My Main Takeaway
 
-My biggest lesson from Week 6 is that **data analytics is not just about creating dashboards or calculating numbers**.
+My biggest lesson from Week 6 is that data analytics is not just about creating dashboards or calculating numbers.
 
 A strong analyst needs to:
 
@@ -247,30 +244,23 @@ A strong analyst needs to:
 6. Communicate useful outputs to other teams.
 7. Prepare the analysis for further testing and validation.
 
-Week 6 therefore helped me move from **descriptive reporting toward decision-support analytics** while contributing to the broader HealthConnect project.
+Week 6 therefore helped me move from descriptive reporting toward decision-support analytics while contributing to the broader HealthConnect project.
 
 ---
 
-## Tools Used
+Tools Used
 
-* **Microsoft Power BI**
-* **Power Query**
-* **DAX**
-* **Microsoft Excel**
-* HealthConnect Appointment Dataset
-
----
-
-## Programme
-
-**AnalystLab Africa – Data Analytics Track**
-
-**Project:** HealthConnect Appointment Analytics
-
-**Week:** 6 – Advanced Analytics & Decision Support
+Microsoft Power BI
+Power Query
+DAX
+HealthConnect Appointment Dataset
 
 ---
 
-## Next Step
+Programme
 
-**Week 7:** Testing, validation and further refinement of the HealthConnect analytical work.
+AnalystLab Africa – Data Analytics Track
+
+Project: HealthConnect Appointment Analytics
+
+Week: 6 – Advanced Analytics & Decision Support
